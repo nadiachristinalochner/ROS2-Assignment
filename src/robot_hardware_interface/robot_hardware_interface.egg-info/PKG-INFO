@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: robot-hardware-interface
+Version: 0.0.1
+Summary: Core hardware interface package for motor and IMU control
+Author: Raspberry Pi Robot
+Author-email: pi@raspberry.local
+Maintainer: Raspberry Pi Robot
+Maintainer-email: pi@raspberry.local
+License: Apache-2.0

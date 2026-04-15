@@ -1,0 +1,2 @@
+[console_scripts]
+imu_controller_node = task2_imu_straight_line.nodes.imu_controller_node:main

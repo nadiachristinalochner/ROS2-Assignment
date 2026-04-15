@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: robot-common
+Version: 0.0.1
+Summary: Common constants and utilities shared across all robot packages
+Author: Raspberry Pi Robot
+Author-email: pi@raspberry.local
+Maintainer: Raspberry Pi Robot
+Maintainer-email: pi@raspberry.local
+License: Apache-2.0

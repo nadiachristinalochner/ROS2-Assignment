@@ -1,0 +1,13 @@
+package.xml
+setup.py
+launch/motor_control.launch.py
+task1_motor_control/__init__.py
+task1_motor_control.egg-info/PKG-INFO
+task1_motor_control.egg-info/SOURCES.txt
+task1_motor_control.egg-info/dependency_links.txt
+task1_motor_control.egg-info/entry_points.txt
+task1_motor_control.egg-info/requires.txt
+task1_motor_control.egg-info/top_level.txt
+task1_motor_control.egg-info/zip-safe
+task1_motor_control/nodes/__init__.py
+task1_motor_control/nodes/motor_node.py

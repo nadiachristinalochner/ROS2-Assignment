@@ -1,0 +1,2 @@
+[console_scripts]
+motor_node = task1_motor_control.nodes.motor_node:main
